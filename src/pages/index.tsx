@@ -46,19 +46,6 @@ export default function Home() {
 
   return (
     <div className="dark min-h-screen bg-background text-foreground">
-      {/* Botão para abrir o menu em telas menores */}
-      <Button
-        variant="ghost"
-        size="icon"
-        className="fixed left-4 top-4 z-50 md:hidden"
-        onClick={() => setOpen(true)} // Abre o menu
-      >
-        <Menu className="h-5 w-5" />
-        <span className="sr-only">Toggle menu</span>
-      </Button>
-
-      {/* Passe o estado e a função para o MainNav */}
-      <MainNav open={open} setOpen={setOpen} />
 
       <main className="flex min-h-screen flex-col items-start justify-start pt-16 md:ml-64">
         <div className=" container px-4 md:px-6 text-left">
