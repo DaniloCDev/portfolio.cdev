@@ -18,7 +18,6 @@ export async function getStaticProps({ locale }: { locale: string }) {
 
 export default function Home() {
   const t = useTranslations();
-  const [open, setOpen] = useState(false); // Estado para controlar o menu
 
 
   const projects = [
