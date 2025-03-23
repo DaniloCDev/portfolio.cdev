@@ -1,0 +1,19 @@
+{
+  "subtitle": "Backend Developer",
+  "about": "Sobre",
+  "aboutText": "Hello\n\nI’m a developer passionate about technology and fascinated by the world of software development. With over 4 years of experience, I have been creating personal projects and continuously improving my skills, with a special focus on back-end development.\n\nHere, you can explore some of the projects I have developed and the ones I’m currently working on. Are you here out of curiosity or because I shared this with you? Either way, feel free to explore!\n\nAdditionally, right below, you’ll find the technologies I work with and improve my skills in daily.",
+
+  "projects": "Projects",
+  "projectsDescription": "Here are some of the projects I’ve developed.",
+  "projectDesc1":"WhatsApp bot to track packages built with Node.js and the Baileys library.",
+  "projectDesc2":"API built with Node.js, Express, and MongoDB. Simple authentication system, front-end integration, and future documentation.",
+  "projectDesc3":"Web API in C# (ASP.NET Core) to manage people’s information with CRUD operations and MySQL database.",
+
+
+  "skills": "Habilidades",
+  "skillsDescription": "Technologies and tools I work with.",
+
+  "getTouch":"Get in touch",
+  "getTouchDescription":"Feel free to reach out for collaborations or just to say a friendly hello."
+
+}

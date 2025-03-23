@@ -1,0 +1,21 @@
+{
+  "subtitle": "Desenvolvedor Backend",
+  "about": "Sobre",
+  "aboutText": "Olá\n\nSou um desenvolvedor apaixonado por tecnologia e fascinado pelo mundo do desenvolvimento de sistemas. Com mais de 4 anos de experiência, venho criando projetos pessoais e aprimorando continuamente minhas habilidades, com foco especial no desenvolvimento back-end.\n\nAqui, você pode explorar alguns dos projetos que já desenvolvi e aqueles nos quais estou trabalhando no momento. Está aqui por curiosidade ou porque eu compartilhei isso com você? De qualquer forma, fique à vontade para explorar!\n\nAlém disso, logo abaixo, você encontrará as tecnologias com as quais trabalho e aprimoro minhas habilidades diariamente.",
+  "toggleMenu": "Alternar Menu",
+  "description": "Aqui você encontra informações sobre meus projetos e habilidades.",
+
+  "projects": "Projetos",
+  "projectsDescription": "Veja alguns dos projetos que desenvolvi.",
+  "projectDesc1":"Bot de WhatsApp para rastrear encomendas feito em Node.js com a lib Baileys.",
+  "projectDesc2":"API construída em Node.js, Express e MongoDB. Sistema de autenticação simples, integração com front-end e futura documentação.",
+  "projectDesc3":"Web API em C# (ASP.NET Core) para gerenciar informações de pessoas com operações CRUD e banco de dados MySQL.",
+
+
+  "skills": "Habilidades",
+  "skillsDescription": "Tecnologias e ferramentas com as quais trabalho.",
+
+  "getTouch":"Entre em contato",
+  "getTouchDescription":"Sinta-se à vontade para entrar em contato para colaborações ou apenas um amigável olá"
+
+}

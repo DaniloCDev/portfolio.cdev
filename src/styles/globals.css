@@ -1,8 +1,11 @@
 @import "tailwindcss";
 @import "tw-animate-css";
 
-@custom-variant dark (&:is(.dark *));
 
+@custom-variant dark (&:is(.dark *));
+.flex.items-center svg {
+  pointer-events: none;  /* Evita que o ícone interfira no clique */
+}
 :root {
   --background: #ffffff;
   --foreground: #171717;
