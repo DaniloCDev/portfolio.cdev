@@ -1,21 +1,50 @@
 {
+  "pageTitle": "Danilo Lopes — Desenvolvedor Backend",
   "subtitle": "Desenvolvedor Backend",
   "about": "Sobre",
+  "description": "Portfólio pessoal de Danilo Lopes, desenvolvedor backend focado em Node.js, C#/.NET Core e tecnologias em nuvem.",
   "aboutText": "Olá\n\nSou um desenvolvedor apaixonado por tecnologia e fascinado pelo mundo do desenvolvimento de sistemas. Com mais de 4 anos de experiência, venho criando projetos pessoais e aprimorando continuamente minhas habilidades, com foco especial no desenvolvimento back-end.\n\nAqui, você pode explorar alguns dos projetos que já desenvolvi e aqueles nos quais estou trabalhando no momento. Está aqui por curiosidade ou porque eu compartilhei isso com você? De qualquer forma, fique à vontade para explorar!\n\nAlém disso, logo abaixo, você encontrará as tecnologias com as quais trabalho e aprimoro minhas habilidades diariamente.",
   "toggleMenu": "Alternar Menu",
-  "description": "Aqui você encontra informações sobre meus projetos e habilidades.",
+  "heroBio": "Desenvolvedor backend construindo APIs e serviços confiáveis, do design do banco de dados ao deploy em nuvem.",
+  "highlight1": "Microsserviços",
+  "highlight2": "Cloud-Native",
+  "highlight3": "APIs RESTful",
+  "highlight4": "Node.js & C#",
 
   "projects": "Projetos",
   "projectsDescription": "Veja alguns dos projetos que desenvolvi.",
-  "projectDesc1":"Bot de WhatsApp para rastrear encomendas feito em Node.js com a lib Baileys.",
-  "projectDesc2":"API construída em Node.js, Express e MongoDB. Sistema de autenticação simples, integração com front-end e futura documentação.",
-  "projectDesc3":"Web API em C# (ASP.NET Core) para gerenciar informações de pessoas com operações CRUD e banco de dados MySQL.",
+  "previousProject": "Projeto anterior",
+  "nextProject": "Próximo projeto",
+  "viewProjectCode": "Ver Código no GitHub",
+  "projectDesc1":"Bot de WhatsApp para rastreamento automatizado de encomendas em tempo real com Node.js e a biblioteca Baileys, tratando eventos e fluxos assíncronos.",
+  "projectDesc2":"API REST construída em Node.js, Express e MongoDB com autenticação segura JWT, validação de rotas e integração com interface web.",
+  "projectDesc3":"Web API desenvolvida em C# (ASP.NET Core) com operações CRUD completas, banco de dados MySQL e arquitetura limpa em camadas.",
 
 
   "skills": "Habilidades",
-  "skillsDescription": "Tecnologias e ferramentas com as quais trabalho.",
+  "skillsDescription": "Tecnologias, ferramentas e conceitos que aplico no desenvolvimento de software.",
+  "previousSkill": "Habilidade anterior",
+  "nextSkill": "Próxima habilidade",
+
+  "skillBackendTitle": "Backend & APIs",
+  "skillBackendDesc": "Construção de APIs RESTful de alto desempenho, microsserviços e automações em tempo real com Clean Architecture e SOLID.",
+
+  "skillDatabaseTitle": "Bancos de Dados",
+  "skillDatabaseDesc": "Modelagem relacional e NoSQL focada em integridade, transações ACID, migrations e consultas otimizadas.",
+
+  "skillDevopsTitle": "DevOps & Cloud",
+  "skillDevopsDesc": "Padronização de ambientes isolados com Docker e Docker Compose, controle de versão e deploy em nuvem (AWS / Linux).",
+
+  "skillFrontendTitle": "Frontend & Web",
+  "skillFrontendDesc": "Desenvolvimento de interfaces rápidas, responsivas e modernas com Next.js e Tailwind CSS consumindo APIs.",
 
   "getTouch":"Entre em contato",
-  "getTouchDescription":"Sinta-se à vontade para entrar em contato para colaborações ou apenas um amigável olá"
+  "getTouchDescription":"Sinta-se à vontade para entrar em contato para colaborações ou apenas um amigável olá.",
+  "availableForWork": "Disponível para novas oportunidades",
+  "contactCardIntro": "Interessado em soluções eficientes, APIs escaláveis ou discutir novos projetos? Fique à vontade para me chamar:",
+  "appliedIn": "No portfólio",
+  "sendEmailAction": "Enviar email →",
+  "viewReposAction": "Ver repositórios →",
+  "connectAction": "Conectar →"
 
 }

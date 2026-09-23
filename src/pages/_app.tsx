@@ -8,7 +8,7 @@ export default function MyApp({ Component, pageProps }: AppProps) {
   const { locale } = useRouter();
 
   return (
-    <IntlProvider locale={locale || "en"} messages={pageProps.messages}>
+    <IntlProvider locale={locale || "en"} messages={pageProps.messages} timeZone="UTC">
       <Component {...pageProps} />
     </IntlProvider>
   );

@@ -6,7 +6,7 @@ const nextConfig: NextConfig = {
   i18n: {
     locales: ["en", "pt"], // Adicione os idiomas suportados
     defaultLocale: "en"
-  }
+  },
 };
 
 export default nextConfig;

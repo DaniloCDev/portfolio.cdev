@@ -1,19 +1,50 @@
 {
+  "pageTitle": "Danilo Lopes — Backend Developer",
   "subtitle": "Backend Developer",
-  "about": "Sobre",
+  "about": "About",
+  "description": "Personal portfolio of Danilo Lopes, a backend developer focused on Node.js, C#/.NET Core and cloud technologies.",
+  "toggleMenu": "Toggle Menu",
+  "heroBio": "Backend developer building reliable APIs and services, from database design to cloud deployment.",
+  "highlight1": "Microservices",
+  "highlight2": "Cloud-Native",
+  "highlight3": "RESTful APIs",
+  "highlight4": "Node.js & C#",
   "aboutText": "Hello\n\nI’m a developer passionate about technology and fascinated by the world of software development. With over 4 years of experience, I have been creating personal projects and continuously improving my skills, with a special focus on back-end development.\n\nHere, you can explore some of the projects I have developed and the ones I’m currently working on. Are you here out of curiosity or because I shared this with you? Either way, feel free to explore!\n\nAdditionally, right below, you’ll find the technologies I work with and improve my skills in daily.",
 
   "projects": "Projects",
   "projectsDescription": "Here are some of the projects I’ve developed.",
-  "projectDesc1":"WhatsApp bot to track packages built with Node.js and the Baileys library.",
-  "projectDesc2":"API built with Node.js, Express, and MongoDB. Simple authentication system, front-end integration, and future documentation.",
-  "projectDesc3":"Web API in C# (ASP.NET Core) to manage people’s information with CRUD operations and MySQL database.",
+  "previousProject": "Previous project",
+  "nextProject": "Next project",
+  "viewProjectCode": "View Code on GitHub",
+  "projectDesc1":"Automated real-time package tracking WhatsApp bot built with Node.js and Baileys library, handling asynchronous event flows.",
+  "projectDesc2":"REST API built with Node.js, Express, and MongoDB featuring secure JWT authentication, route validation, and frontend integration.",
+  "projectDesc3":"Web API developed in C# (ASP.NET Core) with full CRUD operations, MySQL database integration, and clean layered architecture.",
 
 
-  "skills": "Habilidades",
-  "skillsDescription": "Technologies and tools I work with.",
+  "skills": "Skills",
+  "skillsDescription": "Technologies, tools, and concepts I apply in software development.",
+  "previousSkill": "Previous skill",
+  "nextSkill": "Next skill",
+
+  "skillBackendTitle": "Backend & APIs",
+  "skillBackendDesc": "Building high-performance RESTful APIs, microservices, and real-time automations with Clean Architecture and SOLID.",
+
+  "skillDatabaseTitle": "Databases",
+  "skillDatabaseDesc": "Relational and NoSQL modeling focused on integrity, ACID transactions, migrations, and optimized queries.",
+
+  "skillDevopsTitle": "DevOps & Cloud",
+  "skillDevopsDesc": "Environment parity with Docker & Docker Compose, version control, and cloud deployments (AWS / Linux).",
+
+  "skillFrontendTitle": "Frontend & Web",
+  "skillFrontendDesc": "Developing fast, responsive, modern web interfaces with Next.js and Tailwind CSS integrated with APIs.",
 
   "getTouch":"Get in touch",
-  "getTouchDescription":"Feel free to reach out for collaborations or just to say a friendly hello."
+  "getTouchDescription":"Feel free to reach out for collaborations or just to say a friendly hello.",
+  "availableForWork": "Available for new opportunities",
+  "contactCardIntro": "Interested in building scalable solutions, robust APIs, or discussing new projects? Reach out anytime:",
+  "appliedIn": "In portfolio",
+  "sendEmailAction": "Send email →",
+  "viewReposAction": "View repos →",
+  "connectAction": "Connect →"
 
 }
