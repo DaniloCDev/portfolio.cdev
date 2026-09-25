@@ -1,7 +1,7 @@
 "use client"
 
 import Link from "next/link"
-import { Menu, User, Wrench, FolderKanban, Mail } from "lucide-react"
+import { Menu, User, Wrench, FolderKanban, Mail, Milestone } from "lucide-react"
 import { useTranslations } from "next-intl"
 
 import { Button } from "@/components/ui/button"
@@ -17,8 +17,9 @@ export function MainNav({ open, setOpen }: MainNavProps) {
 
   const navItems = [
     { name: t("about"), href: "#about", icon: User },
-    { name: t("skills"), href: "#skills", icon: Wrench },
+    { name: t("trajectory"), href: "#trajectory", icon: Milestone },
     { name: t("projects"), href: "#projects", icon: FolderKanban },
+    { name: t("skills"), href: "#skills", icon: Wrench },
     { name: t("getTouch"), href: "#contact", icon: Mail },
   ]
 

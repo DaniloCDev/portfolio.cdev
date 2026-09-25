@@ -51,9 +51,9 @@ export function SkillsSection() {
       iconColor: "text-emerald-400",
       borderColor: "border-emerald-900/70",
       conceptBadge: "bg-emerald-950/60 text-emerald-300 border-emerald-800/60",
-      techs: ["Node.js", "C# / .NET Core", "TypeScript", "Express", "Baileys"],
-      concepts: ["Clean Architecture", "SOLID", "APIs RESTful", "Event-Driven"],
-      projects: ["Neko Tracking", "NiceTools", "Person API"],
+      techs: ["Node.js", "TypeScript", "NestJS", "Express", "C# / .NET Core"],
+      concepts: ["Clean Architecture", "SOLID", "APIs RESTful", "Event-Driven", "WebSockets"],
+      projects: ["Velo Delivery", "Nox24Proxy", "Neko Tracking"],
     },
     {
       id: "database",
@@ -64,9 +64,9 @@ export function SkillsSection() {
       iconColor: "text-blue-400",
       borderColor: "border-blue-900/70",
       conceptBadge: "bg-blue-950/60 text-blue-300 border-blue-800/60",
-      techs: ["PostgreSQL", "MongoDB", "MySQL", "Prisma", "EF Core"],
+      techs: ["PostgreSQL", "Prisma ORM", "MongoDB", "MySQL", "EF Core"],
       concepts: ["Modelagem Relacional", "NoSQL", "ACID", "Migrations"],
-      projects: ["Person API", "NiceTools"],
+      projects: ["Velo Delivery", "Nox24Proxy", "NiceTools"],
     },
     {
       id: "devops",
@@ -77,9 +77,9 @@ export function SkillsSection() {
       iconColor: "text-amber-400",
       borderColor: "border-amber-900/70",
       conceptBadge: "bg-amber-950/60 text-amber-300 border-amber-800/60",
-      techs: ["Docker", "Docker Compose", "AWS", "Git", "GitHub Actions"],
-      concepts: ["Conteinerização", "12-Factor", "CI/CD", "Git Flow"],
-      projects: ["NiceTools", "Neko Tracking", "Person API"],
+      techs: ["Docker", "Docker Compose", "Linux", "Git", "GitHub Actions"],
+      concepts: ["Conteinerização", "12-Factor", "CI/CD", "Ambientes Isolados"],
+      projects: ["Velo Delivery", "NiceTools", "Neko Tracking"],
     },
     {
       id: "frontend",
@@ -91,8 +91,8 @@ export function SkillsSection() {
       borderColor: "border-cyan-900/70",
       conceptBadge: "bg-cyan-950/60 text-cyan-300 border-cyan-800/60",
       techs: ["Next.js", "React", "Tailwind CSS", "TypeScript"],
-      concepts: ["SSR & SSG", "Componentização", "UI/UX", "APIs"],
-      projects: ["Portfólio", "NiceTools Web"],
+      concepts: ["Consumo de APIs", "Componentização", "UI Responsiva"],
+      projects: ["Velo Delivery", "Portfólio"],
     },
   ];
 
