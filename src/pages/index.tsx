@@ -104,7 +104,8 @@ export default function Home() {
         <meta property="og:title" content={t("pageTitle")} />
         <meta property="og:description" content={t("description")} />
         <meta property="og:type" content="website" />
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" type="image/svg+xml" href="/icon.svg" />
+        <link rel="alternate icon" href="/favicon.ico" />
       </Head>
 
       <MainNav open={open} setOpen={setOpen} />
